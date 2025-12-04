@@ -1,15 +1,14 @@
 <div align="center">
 
-  # Hi there, I'm Malla Jaswanth Narayana! 👋
-
-  ### 🚀 Aerospace Engineer @ IIT Bombay | AI & Data Enthusiast | Web Developer
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Malla%20Jaswanth%20Narayana&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Aerospace%20Engineer%20%7C%20IIT%20Bombay%20Racing%20%7C%20AI%20Developer&descAlignY=55&descSize=20)
 
   <p align="center">
     <i>"Innovating at the intersection of Technology, Engineering, and Sustainability."</i>
   </p>
 
-  [![Email](https://img.shields.io/badge/Email-narayanamalla0008%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:narayanamalla0008@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-narayanamalla-181717?style=flat&logo=github&logoColor=white)](https://github.com/narayanamalla)
+  [![Email](https://img.shields.io/badge/Email-narayanamalla0008%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narayanamalla0008@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-narayanamalla-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/narayanamalla)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/narayanamalla)
 
 </div>
 
@@ -17,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-I am a second-year **Aerospace Engineering** student at **IIT Bombay** with a **Minor in Management**. I bridge the gap between core engineering and modern digital solutions.
+I am a final-year **Aerospace Engineering** student at **IIT Bombay** with a **Minor in Management**. I bridge the gap between core engineering and modern digital solutions, combining technical expertise with strategic leadership.
 
 * 🏎️ **Leadership:** Assistant Manager at **IIT Bombay Racing**, leading sponsor relations and digital presence for India's premier Formula Student Electric team.
 * 🔭 **Current Focus:** Building **NLP architectures**, **Financial Models**, and scalable **Web Applications**.
