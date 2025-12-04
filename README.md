@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I am a final-year **Aerospace Engineering** student at **IIT Bombay** with a **Minor in Management**. I bridge the gap between core engineering and modern digital solutions.
+I am a second-year **Aerospace Engineering** student at **IIT Bombay** with a **Minor in Management**. I bridge the gap between core engineering and modern digital solutions.
 
 * 🏎️ **Leadership:** Assistant Manager at **IIT Bombay Racing**, leading sponsor relations and digital presence for India's premier Formula Student Electric team.
 * 🔭 **Current Focus:** Building **NLP architectures**, **Financial Models**, and scalable **Web Applications**.
