@@ -1,54 +1,68 @@
-# Hi there, I'm Malla Jaswanth Narayana (MJ)! 👋
+<div align="center">
 
-### 🚀 Aerospace Engineering Student at IIT Bombay | Minor in Management
+  # Hi there, I'm Malla Jaswanth Narayana! 👋
 
-[cite_start]I am an engineer passionate about innovating at the intersection of **technology and sustainability**[cite: 7, 9]. My experience spans leadership roles in engineering teams like **IIT Bombay Racing**, combined with hands-on skills in AI, data analytics, and web development.
+  ### 🚀 Aerospace Engineer @ IIT Bombay | AI & Data Enthusiast | Web Developer
 
-- 🔭 I’m currently working on **Formula Student Electric Vehicles** and **AI-driven Analytics**.
-- [cite_start]🏎️ **Assistant Manager** at [IIT Bombay Racing](https://www.iitbombayracing.org/), India's premier Formula Student team[cite: 11].
-- 🌱 I’m learning more about **Advanced NLP architectures** and **Algorithmic Trading Strategies**.
-- [cite_start]📫 Reach me at: **narayanamalla0008@gmail.com** [cite: 3]
+  <p align="center">
+    <i>"Innovating at the intersection of Technology, Engineering, and Sustainability."</i>
+  </p>
+
+  [![Email](https://img.shields.io/badge/Email-narayanamalla0008%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:narayanamalla0008@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-narayanamalla-181717?style=flat&logo=github&logoColor=white)](https://github.com/narayanamalla)
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+### 👨‍💻 About Me
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white)
+I am a final-year **Aerospace Engineering** student at **IIT Bombay** with a **Minor in Management**. I bridge the gap between core engineering and modern digital solutions.
 
-**Machine Learning & Data**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+* 🏎️ **Leadership:** Assistant Manager at **IIT Bombay Racing**, leading sponsor relations and digital presence for India's premier Formula Student Electric team.
+* 🔭 **Current Focus:** Building **NLP architectures**, **Financial Models**, and scalable **Web Applications**.
+* 🌱 **Experience:** Former Community Manager at **JEEsociety** (Scaled to 8k+ members) and Growth Intern at **AptiDude**.
+* 🏆 **Achievement:** Top 4% nationwide in JEE Advanced.
 
-**Web & Tools**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-D32D41?style=for-the-badge&logo=solidworks&logoColor=white)
+---
+
+### 🛠️ Technical Arsenal
+
+<div align="center">
+
+| **Languages** | **AI & Data Science** | **Web & Tools** | **Core Engineering** |
+| :---: | :---: | :---: | :---: |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=flat-square&logo=mathworks&logoColor=white) |
+| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![SolidWorks](https://img.shields.io/badge/SolidWorks-D32D41?style=flat-square&logo=solidworks&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white) | ![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=flat-square&logo=ansys&logoColor=black) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) | ![Fusion 360](https://img.shields.io/badge/Fusion%20360-F57F20?style=flat-square&logo=autodesk&logoColor=white) |
+
+</div>
 
 ---
 
 ### 📂 Featured Projects
 
-| Project | Tech Stack | Description |
+| Project | Domain | Key Details |
 | :--- | :--- | :--- |
-| **Empathy Engine** | *Transformers, NLP, Python* | [cite_start]An NLP-based emotion detection system utilizing Transformers for automated customer support analysis[cite: 53, 55]. |
-| **Internet Shutdown UI** | *React.js, APIs* | [cite_start]Interactive dashboard visualizing global connectivity with real-time API integration, reducing latency by 20%[cite: 60, 61, 62]. |
-| **Stratify (Market Basket Analysis)** | *Python, Data Mining* | [cite_start]Analyzed 3M+ orders using Association Rules to build a 'Frequently Bought Together' engine[cite: 63, 65, 67]. |
-| **AI Communication Scorer** | *Audio Processing, AI* | [cite_start]Automated tool to evaluate verbal skills (clarity and pacing) using audio processing for actionable analytics[cite: 57, 58]. |
-| **Financial Modelling Report** | *Monte Carlo, Excel* | [cite_start]Executed DCF valuation and estimated 95% daily VaR via Monte Carlo simulation[cite: 72, 74, 76]. |
+| **Empathy Engine** | 🤖 AI / NLP | Emotion detection system using **Transformers** to enhance automated customer support sentiment classification. |
+| **Stratify (Basket Analysis)** | 📊 Data Mining | Analyzed **3M+ orders** and mined 200+ association rules to project a **10-15% revenue lift**. |
+| **Internet Shutdown UI** | 🌐 React.js | Interactive dashboard visualizing global connectivity. Reduced latency by **20%** via real-time API integration. |
+| **Financial Modelling** | 📈 Finance | Executed **DCF valuation** and estimated 95% daily VaR via **Monte Carlo simulations**. |
+| **Obstacle Bot** | ⚙️ Robotics | Designed an **R-Pi Pico W bot** with a custom PCB controller and I2C protocol integration. |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=narayanamalla&show_icons=true&theme=radical&hide_border=true" alt="MJ's Github Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayanamalla&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=narayanamalla&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="MJ's Github Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayanamalla&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="150" />
+</div>
+
+<br>
+
+<div align="center">
+  <i>"Whatever the mind can conceive and believe, it can achieve."</i>
 </div>
